@@ -4,7 +4,7 @@
 # ValueError  :ValueError in Python is raised when a user gives an invalid value to a function but is of a valid argument
 # TypeError   :TypeError is an exception in Python programming language that occurs when the data type of objects in an operation is inappropriate.
 
-
+ 
 video link
 # https://bit.ly/3vPv5eH
  
